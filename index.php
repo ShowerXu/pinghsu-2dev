@@ -2,9 +2,9 @@
 /**
  * Pinghsu是一款以前端性能优化为出发点而制作的Typecho主题，同时又兼顾设计美学和视觉传达。主题命名取自作者姓名和其女朋友姓名的最后一个字的港式英文，挣扎于Hsuping还是Pinghsu，最后取为Pinghsu，意为一切都是Ping先Hsu后，即系要听女朋友的话。
  *
- * @package Pinghsu Theme
+ * @package Pinghsu Theme with mitkimi modify
  * @author Chakhsu Lau
- * @version 1.5.4
+ * @version 1.5.4/0.0.1
  * @link https://www.linpx.com/
  */
 

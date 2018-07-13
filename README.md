@@ -1,3 +1,10 @@
+# 基于Pinghus Theme的二次开发
+在以下网站使用：
+> mitkimi.com
+
+为尊重原版，在个人需求外的所有内容均保留
+> 以下为Pinghsu 原始内容
+
 ## Pinghsu Theme
 
 ![](https://ws1.sinaimg.cn/large/7c98397dgy1fdydr3jw0yj20rs0fntaz.jpg)
